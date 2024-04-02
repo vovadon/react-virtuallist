@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-virtuallist/static/css/main.b679d99e.css",
+    "main.js": "/react-virtuallist/static/js/main.cc565c14.js",
+    "static/js/453.7d2fe1c5.chunk.js": "/react-virtuallist/static/js/453.7d2fe1c5.chunk.js",
+    "index.html": "/react-virtuallist/index.html",
+    "main.b679d99e.css.map": "/react-virtuallist/static/css/main.b679d99e.css.map",
+    "main.cc565c14.js.map": "/react-virtuallist/static/js/main.cc565c14.js.map",
+    "453.7d2fe1c5.chunk.js.map": "/react-virtuallist/static/js/453.7d2fe1c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b679d99e.css",
+    "static/js/main.cc565c14.js"
+  ]
+}
