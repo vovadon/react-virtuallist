@@ -1,0 +1,22 @@
+.virtualListWrapper {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.container {
+  position: absolute;
+  width: 100%;
+}
+
+.item {
+  position: absolute;
+  border: 1px solid black;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}

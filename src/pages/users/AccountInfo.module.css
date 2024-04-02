@@ -1,0 +1,27 @@
+.formWrapper {
+  padding: 0.5rem 1rem;
+}
+
+.field {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.field label {
+  width: 25%;
+  text-align: right;
+  margin-right: 0.5rem;
+}
+
+.field input {
+  width: 75%;
+}
+
+.button {
+  background-color: green;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  color: white;
+  cursor: pointer;
+}
